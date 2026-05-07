@@ -1,0 +1,333 @@
+trial_index,subtask,session,loop,trial_id_global,category,sentence,sentence_frame,foil_sentence,foil_sentence_frame,foil_type,chunk_frequency_type,gj_grammatical,gj_error_type,held_out_probe_type,held_out_probe_instance,distractor_words,all_words,previous_encounters,trial_type
+1,passive,2,1,43,target,SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+2,passive,2,1,44,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+3,passive,2,1,45,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+4,passive,2,1,46,target,SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+5,passive,2,1,47,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+6,passive,2,1,48,target,SBJ.N2 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+7,passive,2,1,49,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+8,passive,2,1,50,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+9,passive,2,1,51,target,SBJ.N5 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+10,passive,2,1,52,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+11,passive,2,1,53,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+12,passive,2,1,54,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+13,passive,2,1,55,target,OBJ.N5 SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+14,passive,2,1,56,target,SBJ.N2 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+15,passive,2,1,57,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+16,passive,2,1,58,target,SBJ.N3 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+17,passive,2,1,59,target,SBJ.N4 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+18,passive,2,1,60,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+19,passive,2,1,61,target,SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+20,passive,2,1,62,target,SBJ.N3 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+21,passive,2,1,63,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+22,passive,2,1,64,target,OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+23,passive,2,1,65,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+24,passive,2,1,66,target,SBJ.N4 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+25,passive,2,1,67,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+26,passive,2,1,68,target,SBJ.N2 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+27,passive,2,1,69,target,OBJ.N5 SBJ.N1 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+28,passive,2,1,70,target,SBJ.N3 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+29,passive,2,1,71,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+30,passive,2,1,72,target,OBJ.N5 SBJ.N3 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+31,passive,2,1,73,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+32,passive,2,1,74,target,OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+33,passive,2,1,75,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+34,passive,2,1,76,target,SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+35,passive,2,1,77,target,Aa SBJ.N5 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+36,passive,2,1,78,target,SBJ.N5 GO-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+37,passive,2,1,79,target,SBJ.N2 JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+38,passive,2,1,80,target,SBJ.N3 GO-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+39,passive,2,1,81,target,SBJ.N5 HIDE-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+40,passive,2,1,82,target,SBJ.N1 HIDE-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+41,passive,2,1,83,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+42,passive,2,1,84,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+1,comprehension,2,1,85,target,OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N5 SBJ.N2 REVEAL-TR,OBJ-SBJ-V.TR,wrong_verb,,,,,,,,,comprehension
+2,comprehension,2,1,86,target,SBJ.N5 HIDE-INTR,SBJ-V.INTR,SBJ.N5 GO-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+3,comprehension,2,1,87,target,SBJ.N5 JUMP-INTR,SBJ-V.INTR,SBJ.N5 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+4,comprehension,2,1,88,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N3 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+5,comprehension,2,1,89,target,OBJ.N5 SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,OBJ.N3 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+6,comprehension,2,1,90,target,SBJ.N1 HIDE-INTR,SBJ-V.INTR,SBJ.N1 REVEAL-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+7,comprehension,2,1,91,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 REVEAL-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+8,comprehension,2,1,92,target,SBJ.N2 REVEAL-INTR,SBJ-V.INTR,SBJ.N2 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+9,comprehension,2,1,93,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+10,comprehension,2,1,94,target,SBJ.N1 GO-INTR,SBJ-V.INTR,SBJ.N1 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+11,comprehension,2,1,95,target,SBJ.N4 REVEAL-INTR,SBJ-V.INTR,SBJ.N4 JUMP-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+12,comprehension,2,1,96,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+13,comprehension,2,1,97,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,SBJ.N3 GO-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+14,comprehension,2,1,98,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+15,comprehension,2,1,99,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 HIDE-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+16,comprehension,2,1,100,target,SBJ.N5 GO-INTR,SBJ-V.INTR,SBJ.N5 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+17,comprehension,2,1,101,target,SBJ.N1 HIDE-INTR,SBJ-V.INTR,SBJ.N1 REVEAL-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+18,comprehension,2,1,102,target,OBJ.N5 SBJ.N3 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N3 SBJ.N5 HIDE-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+19,comprehension,2,1,103,target,SBJ.N5 REVEAL-INTR,SBJ-V.INTR,SBJ.N5 JUMP-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+20,comprehension,2,1,104,target,SBJ.N5 GO-INTR,SBJ-V.INTR,SBJ.N5 JUMP-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+21,comprehension,2,1,105,target,OBJ.N5 SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N1 SBJ.N5 REVEAL-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+22,comprehension,2,1,106,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 REVEAL-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+23,comprehension,2,1,107,target,SBJ.N2 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,SBJ.N4 JUMP-INTR LOC.N2,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+24,comprehension,2,1,108,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N5 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+25,comprehension,2,1,109,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N5 SBJ.N2 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+26,comprehension,2,1,110,target,SBJ.N2 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,SBJ.N4 REVEAL-INTR LOC.N2,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+27,comprehension,2,1,111,target,SBJ.N5 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,SBJ.N4 JUMP-INTR LOC.N5,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+28,comprehension,2,1,112,target,OBJ.N5 SBJ.N4 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N5 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+29,comprehension,2,1,113,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N1 SBJ.N5 REVEAL-TR LOC.N2,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+30,comprehension,2,1,114,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,OBJ.N2 SBJ.N5 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+31,comprehension,2,1,115,target,OBJ.N5 SBJ.N1 REVEAL-TR LOC.N3,OBJ-SBJ-V.TR-LOC,OBJ.N3 SBJ.N1 HIDE-TR LOC.N5,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+32,comprehension,2,1,116,target,SBJ.N3 GO-INTR,SBJ-V.INTR,SBJ.N3 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+33,comprehension,2,1,117,target,OBJ.N5 SBJ.N3 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N3 PUSH-TR LOC.N5,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+34,comprehension,2,1,118,target,OBJ.N5 Ab SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N5 Aa SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+35,comprehension,2,1,119,target,SBJ.N1 JUMP-INTR,SBJ-V.INTR,SBJ.N1 GO-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+36,comprehension,2,1,120,target,SBJ.N2 HIDE-INTR LOC.N3,SBJ-V.INTR-LOC,SBJ.N3 GO-INTR LOC.N2,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+37,comprehension,2,1,121,target,SBJ.N4 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,SBJ.N5 HIDE-INTR LOC.N4,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+38,comprehension,2,1,122,target,SBJ.N5 GO-INTR LOC.N4,SBJ-V.INTR-LOC,SBJ.N4 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+39,comprehension,2,1,123,target,SBJ.N3 JUMP-INTR LOC.N2,SBJ-V.INTR-LOC,SBJ.N2 JUMP-INTR LOC.N3,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+40,comprehension,2,1,124,target,SBJ.N4 JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,SBJ.N1 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+41,comprehension,2,1,125,target,Ab OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,OBJ.N2 Aa SBJ.N5 HIDE-TR,OBJ-SBJ-V.TR,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+42,comprehension,2,1,126,target,OBJ.N5 SBJ.N3 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N3 REVEAL-TR LOC.N5,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+1,production,2,1,127,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,Ab|REVEAL|N2|JUMP,JUMP|N5|N4|HIDE|Ab|N2|REVEAL,,production
+2,production,2,1,128,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,N1|Aa|N2|Ab,N2|N1|Aa|JUMP|Ab|N3,,production
+3,production,2,1,129,target,SBJ.N4 GO-INTR,SBJ-V.INTR,,,,,,,,,N1|N2|JUMP|REVEAL,N4|REVEAL|N2|N1|GO|JUMP,,production
+4,production,2,1,130,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,GO|JUMP|N1|N2,N2|GO|N1|JUMP|N5|PUSH|N4,,production
+5,production,2,1,131,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,PUSH|N1|Ab|Aa,REVEAL|Ab|PUSH|N3|N5|Aa|N1,,production
+6,production,2,1,132,target,SBJ.N4 HIDE-INTR,SBJ-V.INTR,,,,,,,,,JUMP|Aa|GO|Ab,Ab|GO|HIDE|N4|Aa|JUMP,,production
+7,production,2,1,133,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,N3|N1|Aa|Ab,N5|Aa|N3|Ab|PUSH|N1|N4,,production
+8,production,2,1,134,target,SBJ.N3 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,HIDE|N4|N5|N1,N1|N4|HIDE|N5|REVEAL|N3,,production
+9,production,2,1,135,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,PUSH|JUMP|N2|Ab,Ab|JUMP|N2|REVEAL|N5|PUSH|N4,,production
+10,production,2,1,136,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,Ab|GO|Aa|PUSH,JUMP|PUSH|Aa|N3|Ab|GO,,production
+11,production,2,1,137,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,Aa|N3|REVEAL|N1,N4|N3|REVEAL|N5|HIDE|Aa|N1,,production
+12,production,2,1,138,target,SBJ.N2 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,PUSH|GO|HIDE|N5,HIDE|N2|GO|REVEAL|PUSH|N5,,production
+13,production,2,1,139,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,Ab|N3|GO|N2,Ab|HIDE|N4|N3|N2|GO|N5,,production
+14,production,2,1,140,target,SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,N2|REVEAL|HIDE|N3,HIDE|N2|N1|GO|REVEAL|N3,,production
+15,production,2,1,141,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,N4|N2|PUSH|GO,N5|N4|REVEAL|N3|PUSH|GO|N2,,production
+16,production,2,1,142,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,REVEAL|N4|N5|N2,JUMP|N2|REVEAL|N5|N3|N4,,production
+17,production,2,1,143,target,SBJ.N4 HIDE-INTR,SBJ-V.INTR,,,,,,,,,N1|GO|N2|Ab,GO|N4|Ab|N1|N2|HIDE,,production
+18,production,2,1,144,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Ab|N4|N1|HIDE,PUSH|N4|Ab|N1|N2|HIDE|N5,,production
+19,production,2,1,145,target,SBJ.N5 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,PUSH|N4|JUMP|GO,PUSH|N5|GO|REVEAL|JUMP|N4,,production
+20,production,2,1,146,target,SBJ.N3 HIDE-INTR,SBJ-V.INTR,,,,,,,,,N2|N1|N4|N5,N2|N3|N5|HIDE|N1|N4,,production
+21,production,2,1,147,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Ab|N3|JUMP|N1,JUMP|N1|N2|N3|PUSH|Ab|N5,,production
+22,production,2,1,148,target,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Aa|JUMP|GO|Ab,JUMP|GO|PUSH|N1|Ab|Aa|N5,,production
+23,production,2,1,149,target,OBJ.N5 SBJ.N2 HIDE-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,N1|Aa|GO|N4,Aa|N5|N2|HIDE|N4|N1|GO|N3,,production
+24,production,2,1,150,target,SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,Aa|N2|PUSH|N5,N2|N3|Aa|N5|PUSH|REVEAL|N4,,production
+25,production,2,1,151,target,SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,HIDE|Ab|GO|PUSH,HIDE|PUSH|Ab|N3|REVEAL|GO|N4,,production
+26,production,2,1,152,target,OBJ.N5 SBJ.N1 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,HIDE|N3|GO|REVEAL,N1|N2|HIDE|PUSH|N5|GO|REVEAL|N3,,production
+27,production,2,1,153,target,OBJ.N5 SBJ.N1 REVEAL-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,GO|HIDE|N2|JUMP,N5|N3|GO|N2|HIDE|N1|JUMP|REVEAL,,production
+28,production,2,1,154,target,SBJ.N1 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,N4|Ab|HIDE|N3,N1|REVEAL|Ab|N4|N5|HIDE|N3,,production
+29,production,2,1,155,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,Ab|GO|REVEAL|N1,GO|N1|REVEAL|N2|N5|Ab|PUSH|N3,,production
+30,production,2,1,156,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,N4|PUSH|JUMP|Ab,HIDE|N2|PUSH|N4|N1|JUMP|Ab|N5,,production
+31,production,2,1,157,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,N1|N3|GO|REVEAL,N5|N4|REVEAL|N1|N2|GO|PUSH|N3,,production
+32,production,2,1,158,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,Aa|N1|GO|JUMP,GO|Aa|REVEAL|N3|N5|N1|JUMP,,production
+33,production,2,1,159,target,OBJ.N5 SBJ.N3 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,REVEAL|JUMP|N2|Ab,N4|N2|JUMP|REVEAL|N3|HIDE|N5|Ab,,production
+34,production,2,1,160,target,Aa SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,,,,,Ab|N1|N4|GO,JUMP|N4|GO|N1|Aa|Ab|N5,,production
+35,production,2,1,161,target,SBJ.N3 HIDE-INTR,SBJ-V.INTR,,,,,,,,,GO|Aa|REVEAL|N2,HIDE|Aa|REVEAL|GO|N2|N3,,production
+36,production,2,1,162,target,SBJ.N3 GO-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,Ab|N1|HIDE|PUSH,GO|PUSH|N3|Ab|N1|HIDE|N2,,production
+37,production,2,1,163,target,SBJ.N1 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,REVEAL|Ab|PUSH|Aa,Ab|PUSH|Aa|N5|N1|REVEAL|HIDE,,production
+38,production,2,1,164,target,SBJ.N1 JUMP-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,GO|Aa|N2|PUSH,PUSH|N2|N1|N5|GO|JUMP|Aa,,production
+39,production,2,1,165,target,SBJ.N5 GO-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,HIDE|PUSH|Aa|N4,N5|N4|N3|PUSH|GO|HIDE|Aa,,production
+40,production,2,1,166,target,SBJ.N5 HIDE-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,JUMP|Ab|Aa|N3,HIDE|N2|JUMP|N5|Aa|N3|Ab,,production
+41,production,2,1,167,target,OBJ.N5 SBJ.N3 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,Ab|PUSH|Aa|REVEAL,Aa|Ab|PUSH|REVEAL|N3|HIDE|N2|N5,,production
+42,production,2,1,168,target,Ab OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,N4|PUSH|N1|REVEAL,N1|N5|N4|Ab|HIDE|REVEAL|N2|PUSH,,production
+1,chunk,2,1,169,seen_low_freq,JUMP N5,,,,,seen_low_freq,,,,,,,1,chunk
+2,chunk,2,1,170,illegal,N4 N4,,,,,illegal,,,,,,,0,chunk
+3,chunk,2,1,171,seen_high_freq,REVEAL N4,,,,,seen_high_freq,,,,,,,6,chunk
+4,chunk,2,1,172,unseen_legal,N2 N3,,,,,unseen_legal,,,,,,,0,chunk
+5,chunk,2,1,173,seen_low_freq,HIDE N1,,,,,seen_low_freq,,,,,,,2,chunk
+6,chunk,2,1,174,seen_low_freq,N1 JUMP,,,,,seen_low_freq,,,,,,,3,chunk
+7,chunk,2,1,175,unseen_legal,N4 Aa,,,,,unseen_legal,,,,,,,0,chunk
+8,chunk,2,1,176,illegal,N1 N1,,,,,illegal,,,,,,,0,chunk
+9,chunk,2,1,177,unseen_legal,N4 N2,,,,,unseen_legal,,,,,,,0,chunk
+10,chunk,2,1,178,seen_high_freq,N1 GO,,,,,seen_high_freq,,,,,,,4,chunk
+11,chunk,2,1,179,seen_high_freq,N5 N3,,,,,seen_high_freq,,,,,,,19,chunk
+12,chunk,2,1,180,seen_high_freq,N2 HIDE,,,,,seen_high_freq,,,,,,,8,chunk
+13,chunk,2,1,181,seen_low_freq,GO N4,,,,,seen_low_freq,,,,,,,2,chunk
+14,chunk,2,1,182,seen_high_freq,REVEAL N3,,,,,seen_high_freq,,,,,,,7,chunk
+15,chunk,2,1,183,illegal,HIDE JUMP,,,,,illegal,,,,,,,0,chunk
+16,chunk,2,1,184,unseen_legal,N4 N5,,,,,unseen_legal,,,,,,,0,chunk
+17,chunk,2,1,185,illegal,PUSH PUSH,,,,,illegal,,,,,,,0,chunk
+18,chunk,2,1,186,illegal,GO PUSH,,,,,illegal,,,,,,,0,chunk
+19,chunk,2,1,187,unseen_legal,N1 N2,,,,,unseen_legal,,,,,,,0,chunk
+20,chunk,2,1,188,seen_low_freq,N5 Ab,,,,,seen_low_freq,,,,,,,3,chunk
+1,gj,2,1,189,grammatical,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,grammatical,,,,,,6,gj
+2,gj,2,1,190,grammatical,OBJ.N5 Ab SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,grammatical,,,,,,1,gj
+3,gj,2,1,191,grammatical,SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,grammatical,,,,,,4,gj
+4,gj,2,1,192,grammatical,OBJ.N5 SBJ.N3 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,grammatical,,,,,,2,gj
+5,gj,2,1,193,grammatical,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,grammatical,,,,,,5,gj
+6,gj,2,1,194,grammatical,Ab SBJ.N4 JUMP-INTR,SBJ-V.INTR,,,,,grammatical,,V-frame-jump-V.INTR,Ab SBJ.N4 JUMP-INTR,,,0,gj
+7,gj,2,1,195,grammatical,OBJ.N4 Ab SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,grammatical,,sent-frame-OBJ-SUBJ-V.TR,OBJ.N4 Ab SBJ.N2 PUSH-TR,,,0,gj
+8,gj,2,1,196,grammatical,Ab SBJ.N2 GO-INTR,SBJ-V.INTR,,,,,grammatical,,sent-frame-SUBJ-V.INTR,Ab SBJ.N2 GO-INTR,,,0,gj
+9,gj,2,1,197,grammatical,OBJ.N2 Aa SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,,,,,grammatical,,sent-frame-OBJ-SUBJ-V.TR,OBJ.N2 Aa SBJ.N3 PUSH-TR,,,0,gj
+10,gj,2,1,198,grammatical,Ab SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,grammatical,,sent-frame-SUBJ-V.INTR,Ab SBJ.N5 JUMP-INTR,,,0,gj
+11,gj,2,1,199,ungrammatical,OBJ.N1 SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,ungrammatical,verb_frame,,,,,,gj
+12,gj,2,1,200,ungrammatical,Ab SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,ungrammatical,verb_frame,,,,,,gj
+13,gj,2,1,201,ungrammatical,SBJ.N4 REVEAL-INTR LOC.N3 LOC.N1,SBJ-V.INTR-LOC,,,,,ungrammatical,verb_frame,,,,,,gj
+14,gj,2,1,202,ungrammatical,HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,ungrammatical,verb_frame,,,,,,gj
+15,gj,2,1,203,ungrammatical,SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,ungrammatical,verb_frame,,,,,,gj
+16,gj,2,1,204,ungrammatical,OBJ.N1 SBJ.N4 Ab JUMP-INTR,SBJ-V.INTR,,,,,ungrammatical,verb_frame_and_NP_structure,V-frame-jump-V.INTR,Ab SBJ.N4 JUMP-INTR,,,,gj
+17,gj,2,1,205,ungrammatical,SBJ.N2 Ab PUSH-TR,OBJ-SBJ-V.TR,,,,,ungrammatical,verb_frame_and_NP_structure,sent-frame-OBJ-SUBJ-V.TR,OBJ.N4 Ab SBJ.N2 PUSH-TR,,,,gj
+18,gj,2,1,206,ungrammatical,OBJ.N1 SBJ.N2 Ab GO-INTR,SBJ-V.INTR,,,,,ungrammatical,verb_frame_and_NP_structure,sent-frame-SUBJ-V.INTR,Ab SBJ.N2 GO-INTR,,,,gj
+19,gj,2,1,207,ungrammatical,SBJ.N3 Aa PUSH-TR,OBJ-SBJ-V.TR,,,,,ungrammatical,verb_frame_and_NP_structure,sent-frame-OBJ-SUBJ-V.TR,OBJ.N2 Aa SBJ.N3 PUSH-TR,,,,gj
+20,gj,2,1,208,ungrammatical,OBJ.N1 SBJ.N5 Ab JUMP-INTR,SBJ-V.INTR,,,,,ungrammatical,verb_frame_and_NP_structure,sent-frame-SUBJ-V.INTR,Ab SBJ.N5 JUMP-INTR,,,,gj
+1,passive,2,2,209,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+2,passive,2,2,210,target,SBJ.N3 REVEAL-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+3,passive,2,2,211,target,OBJ.N5 SBJ.N4 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+4,passive,2,2,212,target,SBJ.N5 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+5,passive,2,2,213,target,Ab SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+6,passive,2,2,214,target,Ab OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+7,passive,2,2,215,target,Ab SBJ.N3 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+8,passive,2,2,216,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+9,passive,2,2,217,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+10,passive,2,2,218,target,SBJ.N5 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+11,passive,2,2,219,target,SBJ.N5 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+12,passive,2,2,220,target,OBJ.N5 SBJ.N3 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+13,passive,2,2,221,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+14,passive,2,2,222,target,OBJ.N5 SBJ.N3 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+15,passive,2,2,223,target,OBJ.N5 Ab SBJ.N2 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+16,passive,2,2,224,target,SBJ.N4 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+17,passive,2,2,225,target,Ab SBJ.N4 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+18,passive,2,2,226,target,SBJ.N4 GO-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+19,passive,2,2,227,target,SBJ.N3 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+20,passive,2,2,228,target,SBJ.N1 JUMP-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+21,passive,2,2,229,target,OBJ.N5 Ab SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+22,passive,2,2,230,target,OBJ.N5 SBJ.N3 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+23,passive,2,2,231,target,Ab SBJ.N5 REVEAL-INTR Ab LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+24,passive,2,2,232,target,OBJ.N5 Ab SBJ.N4 PUSH-TR Ab LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+25,passive,2,2,233,target,OBJ.N5 Ab SBJ.N2 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+26,passive,2,2,234,target,SBJ.N5 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+27,passive,2,2,235,target,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+28,passive,2,2,236,target,SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+29,passive,2,2,237,target,OBJ.N5 SBJ.N1 REVEAL-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+30,passive,2,2,238,target,Ab SBJ.N4 REVEAL-INTR Ab LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+31,passive,2,2,239,target,OBJ.N5 SBJ.N4 HIDE-TR Ab LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+32,passive,2,2,240,target,OBJ.N5 Ab SBJ.N2 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+33,passive,2,2,241,target,Ab SBJ.N1 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+34,passive,2,2,242,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+35,passive,2,2,243,target,SBJ.N4 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+36,passive,2,2,244,target,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+37,passive,2,2,245,target,Ab SBJ.N4 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+38,passive,2,2,246,target,Ab SBJ.N2 HIDE-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+39,passive,2,2,247,target,Ab SBJ.N3 JUMP-INTR Ab LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+40,passive,2,2,248,target,Aa SBJ.N4 GO-INTR Aa LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+41,passive,2,2,249,target,OBJ.N5 SBJ.N2 PUSH-TR Ab LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+42,passive,2,2,250,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+1,comprehension,2,2,251,target,SBJ.N3 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,SBJ.N3 JUMP-INTR LOC.N5,SBJ-V.INTR-LOC,wrong_verb,,,,,,,,,comprehension
+2,comprehension,2,2,252,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N5 REVEAL-TR LOC.N2,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+3,comprehension,2,2,253,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N3,OBJ-SBJ-V.TR-LOC,OBJ.N5 SBJ.N3 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+4,comprehension,2,2,254,target,SBJ.N1 REVEAL-INTR LOC.N2,SBJ-V.INTR-LOC,SBJ.N1 HIDE-INTR LOC.N2,SBJ-V.INTR-LOC,wrong_verb,,,,,,,,,comprehension
+5,comprehension,2,2,255,target,OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N4 SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles_wrong_verb,,,,,,,,,comprehension
+6,comprehension,2,2,256,target,SBJ.N2 GO-INTR,SBJ-V.INTR,SBJ.N2 REVEAL-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+7,comprehension,2,2,257,target,SBJ.N5 JUMP-INTR,SBJ-V.INTR,SBJ.N5 HIDE-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+8,comprehension,2,2,258,target,OBJ.N5 SBJ.N1 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N5 SBJ.N2 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+9,comprehension,2,2,259,target,SBJ.N1 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,SBJ.N3 JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+10,comprehension,2,2,260,target,Ab OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,Aa OBJ.N5 SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+11,comprehension,2,2,261,target,Ab SBJ.N2 HIDE-INTR,SBJ-V.INTR,Aa SBJ.N2 HIDE-INTR,SBJ-V.INTR,wrong_adjective,,,,,,,,,comprehension
+12,comprehension,2,2,262,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,OBJ.N2 SBJ.N1 HIDE-TR LOC.N5,OBJ-SBJ-V.TR-LOC,swapped_roles,,,,,,,,,comprehension
+13,comprehension,2,2,263,target,OBJ.N5 Ab SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,Aa OBJ.N1 SBJ.N5 HIDE-TR,OBJ-SBJ-V.TR,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+14,comprehension,2,2,264,target,OBJ.N5 Ab SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N5 Aa SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+15,comprehension,2,2,265,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,OBJ.N4 SBJ.N5 HIDE-TR LOC.N1,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+16,comprehension,2,2,266,target,Ab SBJ.N2 GO-INTR,SBJ-V.INTR,Aa SBJ.N2 GO-INTR,SBJ-V.INTR,wrong_adjective,,,,,,,,,comprehension
+17,comprehension,2,2,267,target,SBJ.N5 HIDE-INTR,SBJ-V.INTR,SBJ.N5 REVEAL-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+18,comprehension,2,2,268,target,SBJ.N1 JUMP-INTR LOC.N3,SBJ-V.INTR-LOC,SBJ.N3 JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+19,comprehension,2,2,269,target,SBJ.N5 GO-INTR LOC.N2,SBJ-V.INTR-LOC,SBJ.N2 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+20,comprehension,2,2,270,target,SBJ.N3 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,SBJ.N5 HIDE-INTR LOC.N3,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+21,comprehension,2,2,271,target,OBJ.N5 SBJ.N3 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,OBJ.N5 SBJ.N3 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,wrong_verb,,,,,,,,,comprehension
+22,comprehension,2,2,272,target,Ab OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,OBJ.N1 Aa SBJ.N5 REVEAL-TR,OBJ-SBJ-V.TR,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+23,comprehension,2,2,273,target,OBJ.N5 SBJ.N1 PUSH-TR Ab LOC.N3,OBJ-SBJ-V.TR-LOC,OBJ.N5 SBJ.N1 REVEAL-TR Aa LOC.N3,OBJ-SBJ-V.TR-LOC,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+24,comprehension,2,2,274,target,Ab SBJ.N2 REVEAL-INTR Ab LOC.N4,SBJ-V.INTR-LOC,Ab SBJ.N4 REVEAL-INTR Aa LOC.N2,SBJ-V.INTR-LOC,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+25,comprehension,2,2,275,target,OBJ.N5 Ab SBJ.N1 REVEAL-TR Ab LOC.N3,OBJ-SBJ-V.TR-LOC,OBJ.N5 Ab SBJ.N1 REVEAL-TR Aa LOC.N3,OBJ-SBJ-V.TR-LOC,wrong_adjective,,,,,,,,,comprehension
+26,comprehension,2,2,276,target,Ab SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,Aa SBJ.N4 JUMP-INTR LOC.N3,SBJ-V.INTR-LOC,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+27,comprehension,2,2,277,target,Ab SBJ.N5 REVEAL-INTR Ab LOC.N4,SBJ-V.INTR-LOC,Ab SBJ.N4 REVEAL-INTR Aa LOC.N5,SBJ-V.INTR-LOC,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+28,comprehension,2,2,278,target,Ab OBJ.N5 SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,Aa OBJ.N5 SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,wrong_adjective,,,,,,,,,comprehension
+29,comprehension,2,2,279,target,Ab SBJ.N4 JUMP-INTR,SBJ-V.INTR,Aa SBJ.N4 GO-INTR,SBJ-V.INTR,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+30,comprehension,2,2,280,target,Ab OBJ.N5 SBJ.N4 HIDE-TR LOC.N3,OBJ-SBJ-V.TR-LOC,OBJ.N3 SBJ.N4 HIDE-TR Aa LOC.N5,OBJ-SBJ-V.TR-LOC,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+31,comprehension,2,2,281,target,Ab OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,Aa OBJ.N5 SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,wrong_adjective,,,,,,,,,comprehension
+32,comprehension,2,2,282,target,Ab OBJ.N5 Ab SBJ.N2 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,Ab OBJ.N5 Aa SBJ.N2 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+33,comprehension,2,2,283,target,Ab SBJ.N4 GO-INTR,SBJ-V.INTR,Aa SBJ.N4 GO-INTR,SBJ-V.INTR,wrong_adjective,,,,,,,,,comprehension
+34,comprehension,2,2,284,target,Ab OBJ.N5 Ab SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,Ab OBJ.N1 Aa SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+35,comprehension,2,2,285,target,Ab SBJ.N5 HIDE-INTR,SBJ-V.INTR,Aa SBJ.N5 REVEAL-INTR,SBJ-V.INTR,wrong_verb_wrong_adjective,,,,,,,,,comprehension
+36,comprehension,2,2,286,target,Ab OBJ.N5 SBJ.N2 REVEAL-TR Ab LOC.N3,OBJ-SBJ-V.TR-LOC,Ab OBJ.N3 SBJ.N2 HIDE-TR Ab LOC.N5,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+37,comprehension,2,2,287,target,Ab SBJ.N5 HIDE-INTR,SBJ-V.INTR,Ab SBJ.N5 GO-INTR,SBJ-V.INTR,wrong_verb,,,,,,,,,comprehension
+38,comprehension,2,2,288,target,Ab SBJ.N4 JUMP-INTR LOC.N3,SBJ-V.INTR-LOC,SBJ.N3 JUMP-INTR Ab LOC.N4,SBJ-V.INTR-LOC,swapped_roles,,,,,,,,,comprehension
+39,comprehension,2,2,289,target,Ab SBJ.N4 GO-INTR Ab LOC.N3,SBJ-V.INTR-LOC,Ab SBJ.N3 GO-INTR Aa LOC.N4,SBJ-V.INTR-LOC,wrong_adjective_swapped_roles,,,,,,,,,comprehension
+40,comprehension,2,2,290,target,Ab SBJ.N2 HIDE-INTR Aa LOC.N1,SBJ-V.INTR-LOC,Ab SBJ.N2 HIDE-INTR Ab LOC.N1,SBJ-V.INTR-LOC,wrong_adjective,,,,,,,,,comprehension
+41,comprehension,2,2,291,target,Ab OBJ.N5 SBJ.N1 PUSH-TR LOC.N4,OBJ-SBJ-V.TR-LOC,OBJ.N1 Ab SBJ.N5 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,swapped_roles_wrong_verb,,,,,,,,,comprehension
+42,comprehension,2,2,292,target,Ab OBJ.N5 Ab SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,Ab OBJ.N3 Ab SBJ.N5 PUSH-TR,OBJ-SBJ-V.TR,swapped_roles,,,,,,,,,comprehension
+1,production,2,2,293,target,SBJ.N4 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,Aa|N2|PUSH|HIDE,HIDE|Aa|PUSH|N2|N5|N4|REVEAL,,production
+2,production,2,2,294,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,JUMP|Ab|N2|N1,N3|N2|N4|HIDE|N5|N1|JUMP|Ab,,production
+3,production,2,2,295,target,SBJ.N3 REVEAL-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,GO|N5|JUMP|Aa,JUMP|Aa|GO|REVEAL|N3|N5|N4,,production
+4,production,2,2,296,target,OBJ.N5 SBJ.N1 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,N3|Aa|PUSH|GO,Aa|PUSH|REVEAL|N5|N4|GO|N1|N3,,production
+5,production,2,2,297,target,SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,HIDE|Aa|REVEAL|N2,REVEAL|Aa|HIDE|JUMP|N2|N3,,production
+6,production,2,2,298,target,OBJ.N5 Ab SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,GO|HIDE|N2|Aa,Ab|N5|GO|N3|HIDE|Aa|N2|PUSH,,production
+7,production,2,2,299,target,Ab SBJ.N4 HIDE-INTR,SBJ-V.INTR,,,,,,,,,REVEAL|GO|N2|JUMP,Ab|JUMP|N4|HIDE|GO|N2|REVEAL,,production
+8,production,2,2,300,target,SBJ.N2 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,Aa|JUMP|Ab|PUSH,N3|JUMP|PUSH|N2|REVEAL|Ab|Aa,,production
+9,production,2,2,301,target,OBJ.N5 SBJ.N3 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,HIDE|N1|JUMP|N4,JUMP|N3|PUSH|N4|HIDE|N5|N1,,production
+10,production,2,2,302,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,N3|GO|N2|JUMP,GO|N3|N2|N4|HIDE|JUMP|N1|N5,,production
+11,production,2,2,303,target,OBJ.N5 SBJ.N2 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,Aa|PUSH|N4|HIDE,N1|PUSH|HIDE|REVEAL|N4|N5|Aa|N2,,production
+12,production,2,2,304,target,Ab OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Aa|REVEAL|HIDE|N4,Ab|N1|HIDE|Aa|N4|REVEAL|PUSH|N5,,production
+13,production,2,2,305,target,SBJ.N2 JUMP-INTR,SBJ-V.INTR,,,,,,,,,Aa|HIDE|N4|GO,N4|HIDE|N2|Aa|GO|JUMP,,production
+14,production,2,2,306,target,Ab SBJ.N1 GO-INTR,SBJ-V.INTR,,,,,,,,,HIDE|N3|N2|N4,N4|N2|Ab|HIDE|GO|N3|N1,,production
+15,production,2,2,307,target,OBJ.N5 Ab SBJ.N3 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,PUSH|GO|N1|JUMP,N5|HIDE|JUMP|Ab|N1|PUSH|N3|GO,,production
+16,production,2,2,308,target,OBJ.N5 SBJ.N2 REVEAL-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,Aa|GO|PUSH|HIDE,PUSH|N5|Aa|N4|HIDE|REVEAL|GO|N2,,production
+17,production,2,2,309,target,Ab SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,,,,,Aa|N3|PUSH|N2,JUMP|N3|Aa|N2|N5|PUSH|Ab,,production
+18,production,2,2,310,target,SBJ.N3 HIDE-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,GO|JUMP|Ab|PUSH,N5|HIDE|N3|PUSH|GO|JUMP|Ab,,production
+19,production,2,2,311,target,SBJ.N3 GO-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,N1|N5|N2|Ab,N3|Ab|GO|N1|N5|N4|N2,,production
+20,production,2,2,312,target,SBJ.N4 JUMP-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,HIDE|N2|GO|N5,JUMP|N2|N3|HIDE|GO|N5|N4,,production
+21,production,2,2,313,target,OBJ.N5 SBJ.N1 PUSH-TR LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,N4|REVEAL|GO|Aa,N3|PUSH|N5|N4|GO|N1|REVEAL|Aa,,production
+22,production,2,2,314,target,OBJ.N5 Ab SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,N2|GO|Aa|JUMP,Aa|N1|JUMP|N5|Ab|N2|REVEAL|GO,,production
+23,production,2,2,315,target,Ab OBJ.N5 Ab SBJ.N1 REVEAL-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,N4|JUMP|N3|PUSH,Ab|PUSH|N4|JUMP|REVEAL|N1|N5|N2|N3|Ab,,production
+24,production,2,2,316,target,SBJ.N1 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,PUSH|Aa|Ab|GO,GO|N5|REVEAL|Aa|PUSH|Ab|N1,,production
+25,production,2,2,317,target,OBJ.N5 SBJ.N1 HIDE-TR Ab LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,PUSH|N3|GO|N2,N1|N5|GO|PUSH|HIDE|Ab|N2|N4|N3,,production
+26,production,2,2,318,target,Ab SBJ.N1 REVEAL-INTR LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,GO|HIDE|Aa|N4,GO|REVEAL|HIDE|Aa|N4|N5|N1|Ab,,production
+27,production,2,2,319,target,OBJ.N5 Ab SBJ.N4 REVEAL-TR Ab LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,GO|Aa|PUSH|N2,PUSH|REVEAL|N2|Aa|Ab|N4|Ab|N5|N1|GO,,production
+28,production,2,2,320,target,Ab SBJ.N2 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,HIDE|GO|N4|Aa,Ab|HIDE|GO|REVEAL|N4|N3|Aa|N2,,production
+29,production,2,2,321,target,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Ab|HIDE|Aa|N3,Ab|PUSH|N5|N1|Aa|HIDE|N3,,production
+30,production,2,2,322,target,SBJ.N2 GO-INTR,SBJ-V.INTR,,,,,,,,,REVEAL|JUMP|N3|PUSH,N2|JUMP|PUSH|REVEAL|GO|N3,,production
+31,production,2,2,323,target,OBJ.N5 SBJ.N3 HIDE-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,N2|REVEAL|GO|JUMP,HIDE|GO|N1|JUMP|N5|N2|N3|REVEAL,,production
+32,production,2,2,324,target,Ab OBJ.N5 Aa SBJ.N5 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,N2|HIDE|N4|N3,REVEAL|Aa|HIDE|N3|N4|N2|Ab|N5|N5,,production
+33,production,2,2,325,target,Ab SBJ.N1 HIDE-INTR,SBJ-V.INTR,,,,,,,,,N2|N3|N5|Aa,Ab|HIDE|Aa|N2|N3|N1|N5,,production
+34,production,2,2,326,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,Aa|JUMP|N1|GO,N4|JUMP|Aa|PUSH|GO|N1|N5,,production
+35,production,2,2,327,target,Ab OBJ.N5 Ab SBJ.N3 HIDE-TR Ab LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,PUSH|GO|REVEAL|JUMP,N3|Ab|N1|REVEAL|PUSH|N5|GO|Ab|HIDE|JUMP|Ab,,production
+36,production,2,2,328,target,Ab SBJ.N3 JUMP-INTR,SBJ-V.INTR,,,,,,,,,REVEAL|N1|PUSH|Aa,PUSH|REVEAL|N3|N1|JUMP|Ab|Aa,,production
+37,production,2,2,329,target,SBJ.N5 GO-INTR,SBJ-V.INTR,,,,,,,,,Ab|N4|N2|JUMP,Ab|N2|JUMP|N4|N5|GO,,production
+38,production,2,2,330,target,Aa SBJ.N2 HIDE-INTR Ab LOC.N5,SBJ-V.INTR-LOC,,,,,,,,,N4|JUMP|N3|PUSH,N4|Aa|PUSH|JUMP|Ab|N2|N5|N3|HIDE,,production
+39,production,2,2,331,target,Ab SBJ.N1 JUMP-INTR Aa LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,REVEAL|N3|GO|N2,Aa|N1|N3|JUMP|Ab|GO|N4|N2|REVEAL,,production
+40,production,2,2,332,target,Aa SBJ.N1 JUMP-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,PUSH|Ab|HIDE|GO,GO|N4|N1|Ab|HIDE|JUMP|Aa|PUSH,,production
+41,production,2,2,333,target,OBJ.N5 SBJ.N4 PUSH-TR Ab LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,,,,,Aa|GO|HIDE|N2,Ab|Aa|N3|GO|HIDE|N4|PUSH|N5|N2,,production
+42,production,2,2,334,target,Ab OBJ.N5 Ab SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,PUSH|JUMP|Aa|HIDE,Aa|JUMP|PUSH|Ab|REVEAL|N1|Ab|N5|HIDE,,production
+1,chunk,2,2,335,unseen_legal,N1 N5,,,,,unseen_legal,,,,,,,0,chunk
+2,chunk,2,2,336,illegal,PUSH HIDE,,,,,illegal,,,,,,,0,chunk
+3,chunk,2,2,337,illegal,HIDE HIDE,,,,,illegal,,,,,,,0,chunk
+4,chunk,2,2,338,unseen_legal,N1 N4,,,,,unseen_legal,,,,,,,0,chunk
+5,chunk,2,2,339,seen_low_freq,HIDE Aa,,,,,seen_low_freq,,,,,,,1,chunk
+6,chunk,2,2,340,unseen_legal,N2 N4,,,,,unseen_legal,,,,,,,0,chunk
+7,chunk,2,2,341,unseen_legal,N3 N5,,,,,unseen_legal,,,,,,,0,chunk
+8,chunk,2,2,342,illegal,JUMP REVEAL,,,,,illegal,,,,,,,0,chunk
+9,chunk,2,2,343,seen_high_freq,N3 HIDE,,,,,seen_high_freq,,,,,,,16,chunk
+10,chunk,2,2,344,seen_low_freq,GO N3,,,,,seen_low_freq,,,,,,,2,chunk
+11,chunk,2,2,345,seen_low_freq,JUMP N2,,,,,seen_low_freq,,,,,,,3,chunk
+12,chunk,2,2,346,seen_low_freq,GO N1,,,,,seen_low_freq,,,,,,,1,chunk
+13,chunk,2,2,347,seen_high_freq,N3 GO,,,,,seen_high_freq,,,,,,,6,chunk
+14,chunk,2,2,348,seen_low_freq,JUMP N4,,,,,seen_low_freq,,,,,,,2,chunk
+15,chunk,2,2,349,seen_high_freq,N2 REVEAL,,,,,seen_high_freq,,,,,,,16,chunk
+16,chunk,2,2,350,seen_high_freq,PUSH N4,,,,,seen_high_freq,,,,,,,6,chunk
+17,chunk,2,2,351,seen_high_freq,PUSH N2,,,,,seen_high_freq,,,,,,,6,chunk
+18,chunk,2,2,352,illegal,HIDE GO,,,,,illegal,,,,,,,0,chunk
+19,chunk,2,2,353,unseen_legal,N4 N1,,,,,unseen_legal,,,,,,,0,chunk
+20,chunk,2,2,354,illegal,REVEAL GO,,,,,illegal,,,,,,,0,chunk
+1,gj,2,2,355,grammatical,SBJ.N2 JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,grammatical,,,,,,1,gj
+2,gj,2,2,356,grammatical,Ab OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,,,,,grammatical,,,,,,3,gj
+3,gj,2,2,357,grammatical,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,grammatical,,,,,,6,gj
+4,gj,2,2,358,grammatical,SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,grammatical,,,,,,4,gj
+5,gj,2,2,359,grammatical,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,grammatical,,,,,,5,gj
+6,gj,2,2,360,grammatical,OBJ.N5 Ab SBJ.N2 HIDE-TR Ab LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,grammatical,,arg-unique-SUBJ,OBJ.N5 Ab SBJ.N2 HIDE-TR Ab LOC.N1,,,0,gj
+7,gj,2,2,361,grammatical,Aa SBJ.N4 JUMP-INTR,SBJ-V.INTR,,,,,grammatical,,arg-unique-SUBJ,Aa SBJ.N4 JUMP-INTR,,,0,gj
+8,gj,2,2,362,grammatical,Aa SBJ.N1 HIDE-INTR Ab LOC.N5,SBJ-V.INTR-LOC,,,,,grammatical,,arg-unique-SUBJ,Aa SBJ.N1 HIDE-INTR Ab LOC.N5,,,0,gj
+9,gj,2,2,363,grammatical,Ab SBJ.N2 GO-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,grammatical,,sent-frame-SUBJ-V.INTR-LOC,Ab SBJ.N2 GO-INTR LOC.N4,,,0,gj
+10,gj,2,2,364,grammatical,Ab OBJ.N4 SBJ.N3 REVEAL-TR Aa LOC.N5,OBJ-SBJ-V.TR-LOC,,,,,grammatical,,noun-phrase-interchange-4-OBJ,OBJ|4,,,0,gj
+11,gj,2,2,365,ungrammatical,JUMP-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,ungrammatical,verb_frame,,,,,,gj
+12,gj,2,2,366,ungrammatical,OBJ.N5 SBJ.N2 HIDE-TR Ab,OBJ-SBJ-V.TR,,,,,ungrammatical,NP_structure,,,,,,gj
+13,gj,2,2,367,ungrammatical,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2 LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,ungrammatical,verb_frame,,,,,,gj
+14,gj,2,2,368,ungrammatical,OBJ.N1 SBJ.N5 JUMP-INTR,SBJ-V.INTR,,,,,ungrammatical,verb_frame,,,,,,gj
+15,gj,2,2,369,ungrammatical,SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,ungrammatical,verb_frame,,,,,,gj
+16,gj,2,2,370,ungrammatical,OBJ.N5 SBJ.N2 Ab HIDE-TR Ab LOC.N1 LOC.N3,OBJ-SBJ-V.TR-LOC,,,,,ungrammatical,verb_frame_and_NP_structure,arg-unique-SUBJ,OBJ.N5 Ab SBJ.N2 HIDE-TR Ab LOC.N1,,,,gj
+17,gj,2,2,371,ungrammatical,OBJ.N1 SBJ.N4 JUMP-INTR Aa,SBJ-V.INTR,,,,,ungrammatical,verb_frame_and_NP_structure,arg-unique-SUBJ,Aa SBJ.N4 JUMP-INTR,,,,gj
+18,gj,2,2,372,ungrammatical,SBJ.N1 Aa HIDE-INTR Ab LOC.N5 LOC.N2,SBJ-V.INTR-LOC,,,,,ungrammatical,verb_frame_and_NP_structure,arg-unique-SUBJ,Aa SBJ.N1 HIDE-INTR Ab LOC.N5,,,,gj
+19,gj,2,2,373,ungrammatical,OBJ.N1 SBJ.N2 Ab GO-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,ungrammatical,verb_frame_and_NP_structure,sent-frame-SUBJ-V.INTR-LOC,Ab SBJ.N2 GO-INTR LOC.N4,,,,gj
+20,gj,2,2,374,ungrammatical,OBJ.N4 Ab SBJ.N3 REVEAL-TR Aa LOC.N5 LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,ungrammatical,verb_frame_and_NP_structure,noun-phrase-interchange-4-OBJ,OBJ|4,,,,gj

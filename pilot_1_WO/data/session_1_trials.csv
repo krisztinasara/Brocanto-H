@@ -1,0 +1,43 @@
+trial_index,subtask,session,loop,trial_id_global,category,sentence,sentence_frame,foil_sentence,foil_sentence_frame,foil_type,chunk_frequency_type,gj_grammatical,gj_error_type,held_out_probe_type,held_out_probe_instance,distractor_words,all_words,previous_encounters,trial_type
+1,passive,1,1,1,target,SBJ.N3 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+2,passive,1,1,2,target,OBJ.N5 SBJ.N4 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+3,passive,1,1,3,target,OBJ.N5 SBJ.N1 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+4,passive,1,1,4,target,SBJ.N1 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+5,passive,1,1,5,target,SBJ.N2 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+6,passive,1,1,6,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+7,passive,1,1,7,target,SBJ.N2 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+8,passive,1,1,8,target,OBJ.N5 SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+9,passive,1,1,9,target,SBJ.N1 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+10,passive,1,1,10,target,OBJ.N5 SBJ.N2 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+11,passive,1,1,11,target,OBJ.N5 SBJ.N2 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+12,passive,1,1,12,target,SBJ.N2 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+13,passive,1,1,13,target,SBJ.N5 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+14,passive,1,1,14,target,OBJ.N5 SBJ.N3 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+15,passive,1,1,15,target,SBJ.N2 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+16,passive,1,1,16,target,OBJ.N5 SBJ.N2 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+17,passive,1,1,17,target,SBJ.N5 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+18,passive,1,1,18,target,OBJ.N5 SBJ.N4 HIDE-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+19,passive,1,1,19,target,SBJ.N2 GO-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+20,passive,1,1,20,target,SBJ.N1 REVEAL-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+21,passive,1,1,21,target,OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+22,passive,1,1,22,target,OBJ.N5 SBJ.N1 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+23,passive,1,1,23,target,OBJ.N5 SBJ.N2 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+24,passive,1,1,24,target,SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+25,passive,1,1,25,target,OBJ.N5 SBJ.N1 HIDE-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+26,passive,1,1,26,target,SBJ.N4 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+27,passive,1,1,27,target,OBJ.N5 SBJ.N4 REVEAL-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+28,passive,1,1,28,target,SBJ.N5 REVEAL-INTR LOC.N3,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+29,passive,1,1,29,target,OBJ.N5 SBJ.N3 HIDE-TR LOC.N4,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+30,passive,1,1,30,target,OBJ.N5 SBJ.N1 REVEAL-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+31,passive,1,1,31,target,OBJ.N5 SBJ.N4 PUSH-TR LOC.N2,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+32,passive,1,1,32,target,OBJ.N5 SBJ.N4 HIDE-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+33,passive,1,1,33,target,Ab SBJ.N2 JUMP-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+34,passive,1,1,34,target,OBJ.N5 Ab SBJ.N4 REVEAL-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
+35,passive,1,1,35,target,OBJ.N5 SBJ.N3 PUSH-TR LOC.N1,OBJ-SBJ-V.TR-LOC,,,,,,,,,,,,passive
+36,passive,1,1,36,target,Ab SBJ.N4 HIDE-INTR,SBJ-V.INTR,,,,,,,,,,,,passive
+37,passive,1,1,37,target,SBJ.N4 HIDE-INTR LOC.N1,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+38,passive,1,1,38,target,SBJ.N5 JUMP-INTR LOC.N2,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+39,passive,1,1,39,target,SBJ.N5 GO-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+40,passive,1,1,40,target,SBJ.N3 HIDE-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+41,passive,1,1,41,target,SBJ.N5 JUMP-INTR LOC.N4,SBJ-V.INTR-LOC,,,,,,,,,,,,passive
+42,passive,1,1,42,target,OBJ.N5 Ab SBJ.N1 PUSH-TR,OBJ-SBJ-V.TR,,,,,,,,,,,,passive
