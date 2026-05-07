@@ -1,7 +1,21 @@
 library(tidyverse)
 
-# Set the working directory to the analysis folder
-setwd("../github/artificial-language/analysis/")
+# Resolve data/results paths from the pilot_1_WO folder when run as a script.
+script_path = {
+  args = commandArgs(trailingOnly = FALSE)
+  file_arg = "--file="
+  hit = grep(paste0("^", file_arg), args, value = TRUE)
+  if (length(hit)) {
+    normalizePath(sub(paste0("^", file_arg), "", hit[[1]]), mustWork = FALSE)
+  } else {
+    ofile = tryCatch(sys.frame(1)$ofile, error = function(e) NULL)
+    if (!is.null(ofile)) normalizePath(ofile, mustWork = FALSE) else NA_character_
+  }
+}
+if (!is.na(script_path) && basename(dirname(script_path)) == "scripts") {
+  setwd(dirname(dirname(script_path)))
+}
+rm(script_path)
 
 # =============================================================================
 # Functions
@@ -77,9 +91,13 @@ renumber_running_index_by_identity = function(df) {
     dplyr::select(-".birth_key")
 }
 
-# Row count in experiment_stimuli/output/session_*_trials.csv = full-task length for completion %.
+# Row count in data/session_*_trials.csv = full-task length for completion %.
+design_trial_path = function(wo_session) {
+  file.path("data", paste0("session_", wo_session, "_trials.csv"))
+}
+
 full_task_trial_count_design = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     warning("full_task_trial_count_design: file not found: ", path)
     return(NA_integer_)
@@ -563,7 +581,7 @@ add_task_type = function(df) {
   )
 }
 
-# Match Psychopy chunk audio filenames to experiment_stimuli/output/session_*_trials.csv (subtask == chunk)
+# Match Psychopy chunk audio filenames to data/session_*_trials.csv (subtask == chunk)
 normalize_chunk_label = function(x) {
   x = tolower(trimws(as.character(x)))
   x = gsub("\\.mp3$", "", x, ignore.case = TRUE)
@@ -706,7 +724,7 @@ empty_trial_sentences = function() {
 }
 
 load_stim_chunk_trials = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     warning("Design trial file not found: ", path)
     return(empty_design_chunk())
@@ -729,7 +747,7 @@ load_stim_chunk_trials = function(wo_session) {
 }
 
 load_stim_gj_trials = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     return(empty_design_gj())
   }
@@ -756,7 +774,7 @@ load_stim_gj_trials = function(wo_session) {
 }
 
 load_stim_comp_trials = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     return(empty_design_comp())
   }
@@ -773,7 +791,7 @@ load_stim_comp_trials = function(wo_session) {
 }
 
 load_stim_passive_trials = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     return(empty_design_passive())
   }
@@ -787,7 +805,7 @@ load_stim_passive_trials = function(wo_session) {
 }
 
 load_stim_production_trials = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     return(empty_design_production())
   }
@@ -801,7 +819,7 @@ load_stim_production_trials = function(wo_session) {
 }
 
 load_stim_trial_sentences_by_global = function(wo_session) {
-  path = file.path("..", "experiment_stimuli", "output", paste0("session_", wo_session, "_trials.csv"))
+  path = design_trial_path(wo_session)
   if (!file.exists(path)) {
     warning("Design trial file not found: ", path)
     return(empty_trial_sentences())
@@ -1536,11 +1554,11 @@ flag_session_participant_date_duplicates(session3, 3)
 # --- Manual exclusions (edit after reviewing duplicate-date output) ---
 # Participant IDs as in the export column (ALPXXXX). Birth values as in birth_date, e.g. "2000-05-09".
 session_1_filter_participant = c("ALP1108")
-session_1_filter_birth_date = c("1987-03-24")
+session_1_filter_birth_date = c("1987-03-24", "1999-09-04")
 session_2_filter_participant = c("ALP1108")
-session_2_filter_birth_date = c("1987-03-24")
+session_2_filter_birth_date = c("1987-03-24", "1999-09-04")
 session_3_filter_participant = c("ALP1108")
-session_3_filter_birth_date = c("1987-03-24")
+session_3_filter_birth_date = c("1987-03-24", "1999-09-04")
 
 # Drop manually flagged participants / births after duplicate check; renumber running_index 1..n per (participant, birth).
 session1 = session1 |>

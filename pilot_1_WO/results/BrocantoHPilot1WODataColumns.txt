@@ -1,0 +1,97 @@
+participant
+  ALPXXXX formátumú résztvevőazonosító. A nem ALPXXXX formátumú vagy numerikus
+  PsychoPy résztvevőkódok üres értékre vannak cserélve az exportált
+  dataframe-ben.
+
+participant_unique_id
+  Egyedi résztvevő azonosító. Ha elérhető, az ALP résztvevőazonosítót
+  használja, egyébként a birth_date alapján "missing-YYYY-MM-DD" formátumú
+  azonosítót, születési dátum hiányában pedig "missing-unknown" értéket kap.
+
+birth_date
+  A résztvevő születési dátuma YYYY-MM-DD formátumra normalizálva, ha a nyers
+  születési dátum mezőből értelmezhető.
+
+date
+  PsychoJS export/session időbélyeg a nyers adatokból, tipikus formátuma:
+  YYYY-MM-DD_HHhMM.SS.mmm.
+
+experiment_name
+  A kísérlet neve.
+
+session
+  A session sorszáma az előfeldolgozott adatban: 1, 2 vagy 3.
+
+loop
+  A ciklus száma a sessionön belül (Session 1, Session 2).
+
+trial_id_global
+  Globális trial azonosító a forrásfájlokból importálva.
+
+running_index
+  A trial sorszáma egy résztvevőn belül az adatfájlban a beolvasás után.
+
+task_type
+  Feladat (Passive, Comprehension, Production, GJ és Chunk).
+
+trial_type
+  Feladatspecifikus trial kategória. Chunk soroknál a trial chunk
+  kategóriájából, GJ soroknál a helytelen mondat hibatípusából, Comprehension
+  soroknál pedig a comprehension foil típusából származik.
+
+legality
+  Legal/illegal címke. Az "illegal" címkéjű chunkok és GJ mondatok nem
+  fordulhatnak elő a nyelvben.
+
+sentence_complexity
+  Mondatnehézség/komplexitás proxy, a szavak számát kódolja a mondatban.
+
+target_sentence
+  Célmondat lekódolva.
+
+foil_sentence
+  Foil mondat szövege lekódolva a Comprehension feladatban.
+
+sentence_frame
+  A célmondat absztrakt mondatkerete.
+
+foil_sentence_frame
+  A foil mondat absztrakt mondatkerete a Comprehension feladatban.
+
+previous_encounters
+  A mondat/chunk korábbi előfordulásainak száma. A 0 értékű illegális chunk
+  próbák és a szabálytalan GJ mondatok üresre vannak állítva, mert ezeknél az
+  itemeknél a korábbi expozíció nem értelmezhető.
+
+target_video
+  Cél/helyes videó fájlneve.
+
+foil_video
+  Foil/helytelen videó fájlneve.
+
+audio
+  Mondat audio fájlnév.
+
+t_start
+  Feladatspecifikus kezdő-/referenciaidő másodpercben. Passive soroknál ez a
+  passiveTrial.started; Comprehension soroknál a mondat audio végének ideje;
+  production soroknál az első videó végének ideje; a Chunk és GJ feladatoknál
+  az audio végének ideje.
+
+t_end
+  Feladatspecifikus válasz-/befejezési idő másodpercben. Passive soroknál ez a
+  passiveTrial.stopped; Comprehension soroknál az utolsó választáskattintás;
+  Production soroknál az utolsó szókattintás; a Chunk és a GJ feladatoknál az
+  utolsó kattintás a Likert skála elemeire.
+
+reaction_time
+  t_end - t_start, másodpercben, a résztvevő adott trialen való reakcióidője.
+
+correct_response
+  Helyes válasz a válasszal értékelt feladatoknál.
+
+response
+  A résztvevő válasza.
+
+accuracy
+  A résztvevő válaszhelyessége az adott próbán.
