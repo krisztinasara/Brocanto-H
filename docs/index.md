@@ -4,7 +4,8 @@ title: Brocanto-H
 ---
 
 # Videos of tasks:
-[1. Word Learning Task](https://youtu.be/MWH_xNrTYn0)  
+[1. Word Learning Task](https://youtu.be/MWH_xNrTYn0){:target="_blank"}  
+<a href="https://youtu.be/MWH_xNrTYn0" target="_blank">1. Word Learning Task</a>  
 [2. Passive Learning Task](https://youtu.be/3t8sZHLo24k)  
 [3. Sentence Comprehension Task](https://youtu.be/6NcVqzFEoFM)  
 [4. Sentence Production Task](https://youtu.be/I6bXLBpQy-M)  
