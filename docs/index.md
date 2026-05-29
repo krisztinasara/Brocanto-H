@@ -2,6 +2,10 @@
 layout: default
 title: Brocanto-H
 ---
+Modeling second language acquisition for language aptitude assessment
+==============
+
+***Krisztina Sára Lukics, Anna Bródy, Ágnes Lukács***
 
 # Videos of tasks
 [1. Word Learning Task](https://youtu.be/MWH_xNrTYn0){:target="_blank"}  
