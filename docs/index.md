@@ -16,7 +16,7 @@ Modeling second language acquisition for language aptitude assessment
 [6. Grammatical Sensitivity Task](https://youtu.be/kXWePG6RG64){:target="_blank"}  
 
 # Task demo
-Try the short version of the task [here](https://run.pavlovia.org/lendulet_nyelvelsajatitas/BrocantoHPilot1Session1){:target="_blank"}!
+Try the short version of the task [here](https://run.pavlovia.org/lendulet_nyelvelsajatitas/BrocantoHPilot1Session1){:target="_blank"}! (Runs only on desktop.)
 
 # Contact
 If you would like to contact us, write us here: [lukics.krisztina.sara@ttk.bme.hu](mailto:lukics.krisztina.sara@ttk.bme.hu)
