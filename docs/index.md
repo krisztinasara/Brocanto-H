@@ -7,10 +7,6 @@ Modeling second language acquisition for language aptitude assessment
 
 ***Krisztina Sára Lukics, Anna Bródy, Ágnes Lukács***
 
-<p align="center">
-  <img src="agents.png" alt="Agents" style="width:75%;" />
-</p>
-
 # Videos of tasks
 [1. Word Learning Task](https://youtu.be/MWH_xNrTYn0){:target="_blank"}  
 [2. Passive Learning Task](https://youtu.be/3t8sZHLo24k){:target="_blank"}  
