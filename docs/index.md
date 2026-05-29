@@ -12,7 +12,7 @@ title: Brocanto-H
 [6. Grammatical Sensitivity Task](https://youtu.be/kXWePG6RG64){:target="_blank"}  
 
 # Task demo
-Try the short version of the task [here](https://run.pavlovia.org/lendulet_nyelvelsajatitas/BrocantoHPilot1Session1)!
+Try the short version of the task [here](https://run.pavlovia.org/lendulet_nyelvelsajatitas/BrocantoHPilot1Session1){:target="_blank"}!
 
 # Contact
 If you would like to get in contact with us, write us here: [lukics.krisztina.sara@ttk.bme.hu](mailto:lukics.krisztina.sara@ttk.bme.hu)
