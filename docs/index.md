@@ -19,7 +19,7 @@ Modeling second language acquisition for language aptitude assessment
 Try the short version of the task [here](https://run.pavlovia.org/lendulet_nyelvelsajatitas/BrocantoHPilot1Session1){:target="_blank"}!
 
 # Contact
-If you would like to get in contact with us, write us here: [lukics.krisztina.sara@ttk.bme.hu](mailto:lukics.krisztina.sara@ttk.bme.hu)
+If you would like to contact us, write us here: [lukics.krisztina.sara@ttk.bme.hu](mailto:lukics.krisztina.sara@ttk.bme.hu)
 
 # Download the poster
 You can download the poster from [here](https://drive.google.com/file/d/1UwmUeHaxmSnHAi7EbqK_nDdyqoyjD3DH/view?usp=sharing){:target="_blank"}.
